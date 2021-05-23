@@ -4,6 +4,7 @@
 ##contents
 * [Project requirements](#project-requirements)
 * [app's function](#app's-function)
+* 
 
 
 
@@ -30,10 +31,17 @@ Moreover,I am additionally obliged to submit the following in addition to what i
 
 the main functions  in the table (meal) are it allows customers to :
 
-1) insert name of food
-2) the category of meal 
-3) quantity/amount
+* insert name of food
+* the category of meal 
+* quantity/amount
+
 these three functions are satifying the CREATE task.
+
+next I have the option of viewing the meals that has been ordered which are saved once the meals are selected.
+
+*in the tables' section the customer can book table and 
+*selected how many people are there and how man seats needed.
+*here they can combine the tables relationship and show which meal is selected for this table.
 
 
 ![blue](https://cdn.images.express.co.uk/img/dynamic/footballteams/x256/20.png)
