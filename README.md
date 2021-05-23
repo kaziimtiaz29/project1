@@ -3,7 +3,7 @@
 
 ##contents
 * [Project requirements](#project-requirements)
-* [app's function](#my-app's-function)
+* [app's function](#app's-function)
 
 
 
@@ -26,7 +26,7 @@ Moreover,I am additionally obliged to submit the following in addition to what i
 * Code will be incorporated into a Version Control System and built using a Continuous Integration server before being distributed to a cloud-based virtual machine.
 
 
-## my app's function
+## app's function
 
 the main functions  in the table (meal) are it allows customers to :
 
