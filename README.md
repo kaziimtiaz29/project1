@@ -38,13 +38,29 @@ the main functions  in the table (meal) are it allows customers to :
 
 these three functions are satifying the CREATE task.
 
-next I have the option of viewing the meals that has been ordered which are saved once the meals are selected.
+Next I have the option of viewing the meals that has been ordered which are saved once the meals are selected.
 
-next is the Tables table where customers can:
+Next is the Tables table where customers can:
 
 * in the tables' section the customer can book table and 
 * selected how many people are there and how man seats needed.
 * here they can combine the tables relationship and show which meal is selected for this table.
+
+these fulfill the Create requirements. For update, the meals can be modified and updated. Also the table and the meals can be deleted if necessary
+
+## Project tracking 
+# Trello board (user stories)
+below is trello board showing the user stories for my project and also showing all the steps taken in the project. it has individual lists showing the different elements on the list. They are as follows:
+* Project requeirement -Showing the objectives.
+* User stories – they are made in the format ""As a [User]..., I want [Feature], so that... [Details]"
+* To do - Lists of essential and non-essential works needed for this project.
+* Doing  - Which contains task that is currently being worked on.
+* Testing - Features that need to be tested.
+* Complete - All tasks that are completed.
+* presentation - shows things i need to do to present my project i.e. readme.md file
+
+
+
 
 
 ![blue](https://cdn.images.express.co.uk/img/dynamic/footballteams/x256/20.png)
