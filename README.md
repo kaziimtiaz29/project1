@@ -1,11 +1,14 @@
 # Fundamental project
 # the meal ordering app
+
 ##contents
-*[project requirements](#project requirements)
+* [Project requirements](#project requirements)
+* [app's function](#my app's function)
 
 
 
-# Project Requirements:
+
+## Project Requirements:
 the task of this fundamental project is as follows:
 "To create a CRUD application with utilisation of supporting tools,
 methodologies and technologies that encapsulate all core modules
@@ -21,6 +24,9 @@ Moreover,I am additionally obliged to submit the following in addition to what i
 * Application test suites, which will contain automated tests for application validation 
 * Flask was used to build a front-end website. 
 * Code will be incorporated into a Version Control System and built using a Continuous Integration server before being distributed to a cloud-based virtual machine.
+
+
+## my app's function
 
 the main functions  in the table (meal) are it allows customers to :
 
