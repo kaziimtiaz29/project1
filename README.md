@@ -31,7 +31,7 @@ Moreover,I am additionally obliged to submit the following in addition to what i
 the main functions  in the table (meal) are it allows customers to :
 
 1) insert name of food
-2) the category of meal
+2) the category of meal 
 3) quantity/amount
 these three functions are satifying the CREATE task.
 
