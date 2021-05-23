@@ -127,5 +127,12 @@ Integration testing, as part of the selenium methodology, isperfect for testing 
 Also the relationship of many to many would allow more variability to the app since it would allow many tables to have many types of meals.
 
 
+Acknowledgements:
+Ben, Heskett
+Raji, Kolluru
+
+
+
+
 
 
