@@ -5,7 +5,7 @@
 * [Project requirements](#project-requirements)
  * [Project_description](#the-project-description)
 * [app's function](#App's-function)
-* 
+* [project tracking](#Porject-tracking)
 
 
 
@@ -58,8 +58,12 @@ below is trello board showing the user stories for my project and also showing a
 * Testing - Features that need to be tested.
 * Complete - All tasks that are completed.
 * presentation - shows things i need to do to present my project i.e. readme.md file
+...pic of treelo
+ the link for the trello board :https://trello.com/b/0zlAQYwK/fundamental-project1
+# Entity Relationship diagram
+An entity relationship diagram (ERD) depicting the database's structure is shown below. The user and movies are linked in a one-to-many relationship. As a result, the foreign key is in the meal_ID column, allowing a meals to be served in several tables.
 
-
+..pic here erd
 
 
 
