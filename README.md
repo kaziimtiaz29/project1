@@ -1,8 +1,9 @@
 # Fundamental project
 # the meal ordering app
 
-##contents
+## contents
 * [Project requirements](#project-requirements)
+ * [Project_description](#the-project-description)
 * [app's function](#app's-function)
 * 
 
@@ -15,7 +16,7 @@ the task of this fundamental project is as follows:
 methodologies and technologies that encapsulate all core modules
 covered during training"
 this requires us to create an app which shall perform the CRUD task which mean CREATE,READ, UPDATE and DELETE.
-#the project description
+# the project description
 this project involves the creation of an app that would perform 
 Moreover,I am additionally obliged to submit the following in addition to what is stated in the brief:
 * A Trello board with user stories 
