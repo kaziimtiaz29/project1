@@ -78,7 +78,12 @@ When visiting the home page (/) or a URL without a path, the user is shown with 
 A navigation bar is located at the top of the page (defined in a base layout template, and is available on every page).
 
 ...pics of front end
-![front-end](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end1.png)
+![front-end1](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end1.png)
+![front-end2](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end_2.png)
+![front-end3](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end_3.png)
+![front-end4](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end_4.png)
+![front-end5](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end_5.png)
+
 
 
 ## Running on Jenkins and Testing 
