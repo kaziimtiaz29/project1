@@ -6,7 +6,7 @@
  * [Project_description](#the-project-description)
 * [app's function](#App's-function)
 * [project tracking](#Project-tracking)
-  * [TRELLO](Trello-board-(user-stories)
+  * [TRELLO](#Trello-board-(user-stories)
   * [ ERD](#Entity-Relationship-diagram)
   * [ci](#Continuous-Integration-pipeline)
  * [ Front-End Design](#Front-End-Design)
@@ -118,5 +118,4 @@ Also the relationship of many to many would allow more variability to the app si
 
 
 
-![blue](https://cdn.images.express.co.uk/img/dynamic/footballteams/x256/20.png)
-![egg](https://qa-courseware-images.s3.eu-west-2.amazonaws.com/markdown/links_images/000.jpeg)
+
