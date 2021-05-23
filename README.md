@@ -77,7 +77,7 @@ The project utilises Flask to develop a CRUD website with a working front-end we
 When visiting the home page (/) or a URL without a path, the user is shown with a list of current (meal) entries or a blank page awaiting the creation of meals.
 A navigation bar is located at the top of the page (defined in a base layout template, and is available on every page).
 
-...pics of front end
+
 ![front-end1](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end1.png)
 ![front-end2](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end_2.png)
 ![front-end3](https://github.com/kaziimtiaz29/project_1/blob/master/pics/front_end_3.png)
@@ -94,6 +94,8 @@ Unit testing was the first step in the project. Individual route functions are p
 Separating the route functions and testing each one with multiple scenarios is how unit testing is utilised here. For the test to be successful, each function must return the expected result under each case.The proportion of the application that was tested is also shown in a coverage report. This data aids the developer in determining how much of the app's code has been successfully tested.
 .
 ..pics of unit testing and reports
+![jenkins-test](https://github.com/kaziimtiaz29/project_1/blob/master/pics/jenkins_test.png)
+![testing-cov](https://github.com/kaziimtiaz29/project_1/blob/master/pics/cov%20reprot.png)
 
 
 
