@@ -73,7 +73,7 @@ An entity relationship diagram (ERD) depicting the database's structure is shown
 # Continuous Integration pipeline
 A continuous integration pipeline is depicted here, along with the frameworks and services that go with it. By automating the integration process, this pipeline enables speedy and straightforward development-to-deployment. This means that python code written on my local system using the Visual Studio Code platform can be published to Github.The new code in the repo will be posted to Jenkins via webhook, allowing it to be created on the cloud virtual machine. Unit and integration tests are run automatically after that, and reports are generated. The programmer can evaluate the report and adjust the software as needed.
 
-..pic of ci
+![ci](https://github.com/kaziimtiaz29/project_1/blob/master/pics/ci_pipeline.png)
 
 ## Front-End Design
 The project utilises Flask to develop a CRUD website with a working front-end website and integrated APIs.
