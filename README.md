@@ -5,7 +5,8 @@
 * [Project requirements](#project-requirements)
  * [Project_description](#the-project-description)
 * [app's function](#App's-function)
-* [project tracking](#Porject-tracking)
+* [project tracking](#Project-tracking)
+* 
 
 
 
@@ -60,6 +61,8 @@ below is trello board showing the user stories for my project and also showing a
 * presentation - shows things i need to do to present my project i.e. readme.md file
 
 ...pic of treelo
+ 
+ ![trreelo](https://github.com/kaziimtiaz29/project_1/blob/master/pics/trello.png)
  
  the link for the trello board :https://trello.com/b/0zlAQYwK/fundamental-project1
 # Entity Relationship diagram
