@@ -6,8 +6,13 @@
  * [Project_description](#the-project-description)
 * [app's function](#App's-function)
 * [project tracking](#Project-tracking)
-* 
-
+  * [TRELLO](Trello-board-(user-stories)
+  * [ ERD](#Entity-Relationship-diagram)
+  * [ci](#Continuous-Integration-pipeline)
+ * [ Front-End Design](#Front-End-Design)
+ * [Running on Jenkins and Testing ](#Running-on-Jenkins-and-Testing)
+  * [unit and integration testing](#unit-and-integration-testing)
+* [Future improvements](#Future-Improvements)
 
 
 
@@ -20,6 +25,7 @@ this requires us to create an app which shall perform the CRUD task which mean C
 # the project description
 this project involves the creation of an app that would perform 
 Moreover,I am additionally obliged to submit the following in addition to what is stated in the brief:
+
 * A Trello board with user stories 
 * A relational database with at least two tables that model a relationship 
 * Clear documentation of the design phase, app architecture, and risk assessment 
@@ -45,6 +51,7 @@ Next is the Tables table where customers can:
 
 * in the tables' section the customer can book table and 
 * selected how many people are there and how man seats needed.
+* time of booking
 * here they can combine the tables relationship and show which meal is selected for this table.
 
 these fulfill the Create requirements. For update, the meals can be modified and updated. Also the table and the meals can be deleted if necessary
@@ -60,7 +67,7 @@ below is trello board showing the user stories for my project and also showing a
 * Complete - All tasks that are completed.
 * presentation - shows things i need to do to present my project i.e. readme.md file
 
-...pic of treelo
+
  
  ![trreelo](https://github.com/kaziimtiaz29/project_1/blob/master/pics/trello.png)
  
@@ -68,7 +75,8 @@ below is trello board showing the user stories for my project and also showing a
 # Entity Relationship diagram
 An entity relationship diagram (ERD) depicting the database's structure is shown below. The user and movies are linked in a one-to-many relationship. As a result, the foreign key is in the meal_ID column, allowing a meals to be served in several tables.
 
-..pic here erd
+![erd](https://github.com/kaziimtiaz29/project_1/blob/master/pics/erd.png)
+
 
 # Continuous Integration pipeline
 A continuous integration pipeline is depicted here, along with the frameworks and services that go with it. By automating the integration process, this pipeline enables speedy and straightforward development-to-deployment. This means that python code written on my local system using the Visual Studio Code platform can be published to Github.The new code in the repo will be posted to Jenkins via webhook, allowing it to be created on the cloud virtual machine. Unit and integration tests are run automatically after that, and reports are generated. The programmer can evaluate the report and adjust the software as needed.
@@ -92,15 +100,21 @@ A navigation bar is located at the top of the page (defined in a base layout tem
 ## Running on Jenkins and Testing 
 
 Unit testing was the first step in the project. Individual route functions are put to the test in a variety of scenarios. For a function to be considered successful, it must return the desired response in each case.
+code for running on jenkins:
+
 
 # unit and integration testing
 Separating the route functions and testing each one with multiple scenarios is how unit testing is utilised here. For the test to be successful, each function must return the expected result under each case.The proportion of the application that was tested is also shown in a coverage report. This data aids the developer in determining how much of the app's code has been successfully tested.
-.
+
 ..pics of unit testing and reports
 ![jenkins-test](https://github.com/kaziimtiaz29/project_1/blob/master/pics/jenkins_test.png)
 below shows the test coverage
 
 ![testing-cov](https://github.com/kaziimtiaz29/project_1/blob/master/pics/cov%20reprot.png)
+
+## Future Improvements
+Integration testing, as part of the selenium methodology, isperfect for testing the programme as a whole. Selenium  simulates a user exploring the site (by clicking on items on each page) and filling out forms in the manner specified by the testing, and then my tests will verify the database for the expected data.I would have liked to perform more integration testings in the future to further improve the functionality of the app.
+Also the relationship of many to many would allow more variability to the app since it would allow many tables to have many types of meals.
 
 
 
