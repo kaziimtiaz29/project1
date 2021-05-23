@@ -6,7 +6,7 @@
  * [Project_description](#the-project-description)
 * [app's function](#App's-function)
 * [project tracking](#Project-tracking)
-  * [TRELLO](#Trello-board-(user stories)
+  * [TRELLO](#Trello-board)
   * [ ERD](#Entity-Relationship-diagram)
   * [risk assessment](#Risk-assessment)
   * [ci](#Continuous-Integration-pipeline)
@@ -58,7 +58,8 @@ Next is the Tables table where customers can:
 these fulfill the Create requirements. For update, the meals can be modified and updated. Also the table and the meals can be deleted if necessary
 
 ## Project tracking 
-# Trello board (user stories)
+# Trello board 
+(user stories)
 below is trello board showing the user stories for my project and also showing all the steps taken in the project. it has individual lists showing the different elements on the list. They are as follows:
 * Project requeirement -Showing the objectives.
 * User stories – they are made in the format ""As a [User]..., I want [Feature], so that... [Details]"
