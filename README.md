@@ -2,8 +2,8 @@
 # the meal ordering app
 
 ##contents
-* [Project requirements](#project requirements)
-* [app's function](#my app's function)
+* [Project requirements](#project-requirements)
+* [app's function](#my-app's-function)
 
 
 
