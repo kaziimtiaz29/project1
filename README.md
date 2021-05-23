@@ -95,6 +95,8 @@ Separating the route functions and testing each one with multiple scenarios is h
 .
 ..pics of unit testing and reports
 ![jenkins-test](https://github.com/kaziimtiaz29/project_1/blob/master/pics/jenkins_test.png)
+below shows the test coverage
+
 ![testing-cov](https://github.com/kaziimtiaz29/project_1/blob/master/pics/cov%20reprot.png)
 
 
