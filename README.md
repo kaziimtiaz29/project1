@@ -38,10 +38,11 @@ the main functions  in the table (meal) are it allows customers to :
 these three functions are satifying the CREATE task.
 
 next I have the option of viewing the meals that has been ordered which are saved once the meals are selected.
+next is the Tables table where customers can:
 
-*in the tables' section the customer can book table and 
-*selected how many people are there and how man seats needed.
-*here they can combine the tables relationship and show which meal is selected for this table.
+* in the tables' section the customer can book table and 
+* selected how many people are there and how man seats needed.
+* here they can combine the tables relationship and show which meal is selected for this table.
 
 
 ![blue](https://cdn.images.express.co.uk/img/dynamic/footballteams/x256/20.png)
